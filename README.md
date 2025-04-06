@@ -2,7 +2,7 @@
 
 A sleek, user-friendly desktop application for generating JavaDoc documentation with HTML5 support. Skip the command line and generate professional documentation for your Java projects with just a few clicks!
 
-![JavaDoc Generator Screenshot](https://imgur.com/a/nwuUeIx)
+![JavaDoc Generator Screenshot](https://github.com/user-attachments/assets/7b92d18d-0e6a-4f79-a4e0-141fa693eb7d)
 
 ## ✨ Features
 
